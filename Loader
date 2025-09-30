@@ -1,1 +1,2 @@
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/d677d5082e89f251ee62248d5c22657d.lua"))()
+loadstring(game:HttpGet("https://drive.google.com/file/d/1l1Oqqeqrpad7BRaaQz5TJohLaEv8unpI/view?usp=sharing"))()
+
